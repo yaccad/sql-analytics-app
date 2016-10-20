@@ -17,4 +17,4 @@ print("Hello, world!")
 > "This is a great app!" -- Somebody
 
 **This is bold**
-__This is italic__
+*This is italic*
